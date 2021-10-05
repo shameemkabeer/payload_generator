@@ -21,6 +21,6 @@ This tool is for research and educational purposes only. I don't take any respon
 
 ### screenshort
 
-![image](file:///home/shxim/Pictures/payload_generator.jpg)
+![image](file:///home/shxim/Pictures/payload_generator.jpg![image](https://user-images.githubusercontent.com/89806110/136075023-3d99f9a3-4f2b-458e-8030-52a548992c62.png))
 
 
