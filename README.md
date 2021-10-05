@@ -21,6 +21,6 @@ This tool is for research and educational purposes only. I don't take any respon
 
 ### screenshort
 
-![payload_generator_tool_img].(file:///home/shxim/Pictures/payload_generator.jpg)
+![payload_generator_tool_img](file:///home/shxim/Pictures/payload_generator.jpg)
 
 
