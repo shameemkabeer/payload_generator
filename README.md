@@ -3,7 +3,7 @@
 ### installation
 
 ### install apk tool and apkjar
-
+    [Link to Google](https://www.google.com)
     <a href="https://raw.githubusercontent.com/iBotPeaches/Apktool/master/scripts/linux/apktool">Wikipedia</a>
     Download Linux ![wrap script].https://raw.githubusercontent.com/iBotPeaches/Apktool/master/scripts/linux/apktool (Right click, Save Link As apktool)
     Download apktool-2 (find newest here)
