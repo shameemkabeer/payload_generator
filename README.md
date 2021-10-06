@@ -4,7 +4,7 @@
 
 ### install apk tool and apkjar
     
-   ! [Link to Google](https://www.google.com)
+   ![Link to Google](https://www.google.com)
 ```
 git clone https://github.com/shameemkabeer/payload_generator.git
 
