@@ -4,7 +4,7 @@
 
 ### install apk tool and apkjar
     
-   [script](file:///home/shxim/apktool.bat)
+   [wrap script](https://raw.githubusercontent.com/iBotPeaches/Apktool/master/scripts/linux/apktool)
 
 ```
 git clone https://github.com/shameemkabeer/payload_generator.git
