@@ -15,6 +15,12 @@ Right click and press save the link as apktool. [wrap script](https://raw.github
  Make sure both files are executable (chmod +x)
  
  Try running apktool
+ 
+ ### install zipalighn
+ 
+ ```
+ sudo apt-get install zipalighn
+```
 
 ```
 git clone https://github.com/shameemkabeer/payload_generator.git
