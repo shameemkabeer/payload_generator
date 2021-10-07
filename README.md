@@ -4,7 +4,12 @@
 
 ### install apk tool and apkjar
     
-   [wrap script](https://raw.githubusercontent.com/iBotPeaches/Apktool/master/scripts/linux/apktool)
+ [wrap script](https://raw.githubusercontent.com/iBotPeaches/Apktool/master/scripts/linux/apktool) Right click and press save the link as apk tool.
+ Download apktool-2 [new version is here](https://bitbucket.org/iBotPeaches/apktool/downloads/)
+ Rename downloaded jar to apktool.jar
+ Move both files (apktool.jar & apktool) to /usr/local/bin (root needed)
+ Make sure both files are executable (chmod +x)
+ Try running apktool
 
 ```
 git clone https://github.com/shameemkabeer/payload_generator.git
