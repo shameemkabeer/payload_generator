@@ -4,7 +4,7 @@
 
 ### install apktool and apkjar
     
-Right click and press save the link as apk tool. [wrap script](https://raw.githubusercontent.com/iBotPeaches/Apktool/master/scripts/linux/apktool) 
+Right click and press save the link as apktool. [wrap script](https://raw.githubusercontent.com/iBotPeaches/Apktool/master/scripts/linux/apktool) 
 
  Download apktool-2 [new version is here](https://bitbucket.org/iBotPeaches/apktool/downloads/)
  
